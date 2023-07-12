@@ -1,0 +1,6 @@
+.message_form {
+  position: absolute;
+  top: 2rem;
+  right: 1rem;
+  z-index: 999;
+}
